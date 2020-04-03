@@ -1,0 +1,26 @@
+.one { background-color:blue;
+       height: 50px; 
+       margin: 10px;   
+     }
+
+.two { background-color:blue;
+       height: 120px; 
+       margin: 10px;
+       }
+
+.flex-container { display: flex;
+                  flex-direction:row;
+                  }
+
+.flex-container > div {background-color: blue;
+	                   margin: 10px;
+	                   height: 250px;
+	                   width: 33%;
+	                  
+}
+
+.three {background-color:blue;
+       height: 80px; 
+       margin: 10px; 
+
+}
